@@ -149,7 +149,7 @@ int main(){
         if (corr == true){
             printf("\n\n-------------------------------------\n\nCORRECT !!\nThe song was originally recorded by Harry Belafonte in 1956 and later covered by various artists.");
         } else{
-            printf("\n\n-------------------------------------\n\nWROOONG !!\nThe correct answer is b) Harry Belafonte. The song was originally recorded by Harry Belafonte in 1956 and later covered by various artists.");
+            printf("\n\n-------------------------------------\n\nWROOONG !!\nThe correct answer is d) Harry Belafonte. The song was originally recorded by Harry Belafonte in 1956 and later covered by various artists.");
         }
         Sleep(6000);
         printf("\nCalculating Score");
